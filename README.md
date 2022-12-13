@@ -1,7 +1,9 @@
 
 
-# 💫 About Me:
- I’m currently learning JavaScript, TypeScript and Angular<br>💬
+# Hi, I'm Matthias 👋
+I'm a Frontend Developer from Austria. <br> <br>
+ 🔥I’m currently learning JavaScript, TypeScript and Angular<br>
+ 💬 You can speak to me in english and german
 
 
 ## 🌐 Socials:
